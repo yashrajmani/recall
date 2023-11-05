@@ -76204,7 +76204,7 @@ var $async$wx=A.a1(function(a,b){if(a===1)return A.Y(b,r)
 while(true)switch(s){case 0:o=p.a.r
 n=A.hS("https://api.openai.com/v1/chat/completions")
 m=t.N
-l=A.aA(["Content-Type","application/json","Authorization","Bearer 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"],m,m)
+l=A.aA(["Content-Type","application/json","Authorization","Bearer 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"],m,m)
 s=3
 return A.a6(A.aEF(n,B.bY.Op(A.aA(["model","gpt-3.5-turbo","messages",A.a([A.aA(["role","system","content","You are a helpful assistant."],m,m),A.aA(["role","user","content","Generate a paragraph of 10 words and each word is random word which have no dictionary meaning and are of type of difficulty and length exactly of : "+o+" each"],m,m)],t.m0),"temperature",0.7],m,t.K),null),l),$async$wx)
 case 3:k=b
